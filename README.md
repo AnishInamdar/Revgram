@@ -1,8 +1,8 @@
 
-# Revgram
+# Vesgram
 
 
-A website where user can post and review about the location which he has visited like a tourist location, resturant etc
+A Social media website where a user can post memes and can like, comment the meme of others. 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
