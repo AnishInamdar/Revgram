@@ -21,7 +21,7 @@ Install my-project with npm
 
 ```bash
     cd client
-    npm insatall i
+    npm install i
 
     cd server
     npm install i
