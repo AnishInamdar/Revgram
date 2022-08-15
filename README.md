@@ -1,5 +1,5 @@
 
-# Vesgram
+# Revgram
 
 
 A Social media website where a user can post memes and can like, comment the meme of others. 
